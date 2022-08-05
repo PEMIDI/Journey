@@ -10,7 +10,7 @@ All Courses I took
 
 
 
-##Others:
+## Others:
 [Learning How to Learn at Coursera](https://www.coursera.org/learn/learning-how-to-learn "Learning How to Learn at Coursera")
 
 
