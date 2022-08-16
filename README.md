@@ -18,7 +18,7 @@ This is a repository of what I've learnt and what I'm studying now.
   * Web Crawling
     * BeautifulSoup, 
   * Django
-    * ORM, Class-Based Views, Forms, Payment Gateway, Signals, Caching, i18n
+    * ORM, Class-Based Views, Forms,i18n, Payment Gateway, Signals, Caching, Celery 
     * Django Rest Framework
       * Rest API, Serializer, JWT, Generic Views, Validate Data, Pagination, ViewSet, Throttle, Versioning
 
