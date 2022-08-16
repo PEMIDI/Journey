@@ -1,4 +1,5 @@
-# Pemidi learning journey
+# Pemidi's Learning Journey
+This is a repository of what I've learnt and what I'm studying now.
 
 ## Software Engineering:
 - ### Programming Fundamental at "Azad University"
