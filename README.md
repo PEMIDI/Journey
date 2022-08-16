@@ -1,6 +1,9 @@
 # Pemidi's Learning Journey
 This is a repository of what I've learnt and what I'm studying now.
 
+## I’m Learning now:
+- [ ] [Data Structures & Algorithms - Python ](https://www.udemy.com/course/data-structures-algorithms-python/)
+
 ## Software Engineering:
 - ### Programming Fundamental at "Azad University"
 - ### Advanced Programing at "Azad University"
