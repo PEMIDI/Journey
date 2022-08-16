@@ -1,5 +1,4 @@
-# Courses-I-took
-All Courses I took
+# Pemidi learning journey
 
 ## Software Engineering:
 - ### Programming Fundamental at "Azad University"
